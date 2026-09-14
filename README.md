@@ -24,13 +24,11 @@
 
 - [Lesson 0. ROS2란 무엇인가](docs/00-overview.md)
 - [Lesson 1. 설치 및 환경 구성](docs/01-install.md)
-- Lesson 2. 워크스페이스와 패키지 (예정)
-- Lesson 3. 노드(Node)와 `ros2 run` (예정)
-- Lesson 4. 토픽(Topic)과 Publisher/Subscriber (예정)
-- Lesson 5. 서비스(Service)와 Client/Server (예정)
-- Lesson 6. 파라미터(Parameter) (예정)
-- Lesson 7. 액션(Action) (예정)
-- Lesson 8. launch 파일 (예정)
-- Lesson 9. TF2 / URDF 맛보기 (예정)
+- [Lesson 2. 워크스페이스와 첫 패키지 만들기 (Publisher/Subscriber)](docs/02-first-package.md)
+- Lesson 3. 서비스(Service)와 Client/Server (예정)
+- Lesson 4. 파라미터(Parameter) (예정)
+- Lesson 5. 액션(Action) (예정)
+- Lesson 6. launch 파일 (예정)
+- Lesson 7. TF2 / URDF 맛보기 (예정)
 
 > 목차는 진행하면서 계속 업데이트됩니다.
