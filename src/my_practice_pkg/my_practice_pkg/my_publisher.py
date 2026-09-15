@@ -6,7 +6,7 @@ from std_msgs.msg import String
 class MyPublisher(Node):
     def __init__(self):
         super().__init__('my_publisher')
-        self.publisher = self.create_publisher(String, 'my_topic', 10)
+        self.publisher_ = self.create_publisher(String, 'my_topic', 10)
         self.timer = self.create_timer(1.0, self.timer_callback)
         self.count = 0
 

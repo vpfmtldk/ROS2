@@ -15,7 +15,7 @@ class MySubscriber(Node):
 def main(args=None):
     rclpy.init(args=args)
     node = MySubscriber()
-    rclpy.spin(Node)
+    rclpy.spin(node)
     node.destroy_node()
     rclpy.shutdown()
 
