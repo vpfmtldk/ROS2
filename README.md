@@ -1,10 +1,8 @@
 # ROS2 공부 저장소
 
 처음부터 차근차근 ROS2(Robot Operating System 2)를 공부하기 위한 저장소입니다.
-개념 설명 + 직접 실행해보는 실습 코드를 한 과씩(Lesson) 쌓아갑니다.
 
 ## 진행 방식
-
 - 한 번에 한 Lesson씩 진행합니다. 이해가 안 되면 언제든 질문하세요.
 - 이론(개념) → 실습(코드 실행) → 정리 순서로 구성합니다.
 - 실습 코드는 `src/` 아래에 ROS2 패키지로 만들어 실제로 빌드/실행하면서 확인합니다.
@@ -21,7 +19,6 @@
   → 자세한 이유와 방법은 [`docs/01-install.md`](docs/01-install.md) 참고.
 
 ## 목차 (커리큘럼)
-
 - [Lesson 0. ROS2란 무엇인가](docs/00-overview.md)
 - [Lesson 1. 설치 및 환경 구성](docs/01-install.md)
 - [Lesson 2. 워크스페이스와 첫 패키지 만들기 (Publisher/Subscriber)](docs/02-first-package.md)
