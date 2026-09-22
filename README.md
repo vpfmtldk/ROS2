@@ -22,7 +22,7 @@
 - [Lesson 0. ROS2란 무엇인가](docs/00-overview.md)
 - [Lesson 1. 설치 및 환경 구성](docs/01-install.md)
 - [Lesson 2. 워크스페이스와 첫 패키지 만들기 (Publisher/Subscriber)](docs/02-first-package.md)
-- Lesson 3. 서비스(Service)와 Client/Server (예정)
+- [Lesson 3. 서비스(Service)와 Client/Server](docs/03-service.md)
 - Lesson 4. 파라미터(Parameter) (예정)
 - Lesson 5. 액션(Action) (예정)
 - Lesson 6. launch 파일 (예정)
