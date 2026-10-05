@@ -3,6 +3,10 @@
     "ros-mcp": {
       "command": "uvx",
       "args": ["ros-mcp", "--transport=stdio"]
+    },
+    "gazebo-mcp": {
+      "command": "bash",
+      "args": ["scripts/run_gazebo_mcp.sh"]
     }
   }
 }
